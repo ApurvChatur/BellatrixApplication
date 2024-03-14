@@ -19,8 +19,8 @@ const brand = () => {
 	var brandObject
 
 		brandObject = {
-			logo: beehive,
-			name: "Beehive Corporation",
+			logo: bellatrix,
+			name: "Bellatrix Enterprise",
 			app: "https://beehive-frontend.netlify.app/",
 			admin: "https://beehive-admin.netlify.app/"
 		}
