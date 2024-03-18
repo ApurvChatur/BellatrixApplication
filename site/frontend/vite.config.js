@@ -12,8 +12,8 @@ export default defineConfig({
         "name":"Bellatrix Enterprise",
         "short_name":"Bellatrix",
         "display": "standalone",
-        "background_color": "#071952",
-        "theme_color": "#071952",
+        "background_color": "#333D79",
+        "theme_color": "#333D79",
         "icons":[
           {
             src: "Business/Bellatrix/favicon_io/android-chrome-512x512.png",
